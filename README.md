@@ -5,5 +5,7 @@ Este repositorio reune as atividades feitas durante a faculdade de ADS no Senac 
 
 # Projetos
 ## CV
-Este projeto é um cussriculo simples feito em html e css.
+Este projeto é um curriculo simples feito em html e css.
 
+## louja
+Este projeto é uma página simples em html e css que simula a tabela de proços de uma loja.

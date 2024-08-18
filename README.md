@@ -8,6 +8,7 @@ Este repositorio reune as atividades feitas durante a faculdade de ADS no Senac 
   🔹[trocaFonte](#trocafonte)
   🔹[calculator](#calculator)
   🔹[port](#port)
+  🔹[comparacao](#comparacao)
 
 
 # Projetos
@@ -25,3 +26,6 @@ Uma calculadora simples feita em js.
 
 ## Port
 Um simples portifólio feito em html e css.
+
+## Comparacao
+Uma página web simples feita em html que contem uma tabela que compara 6 linguagens de programação

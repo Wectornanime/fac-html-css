@@ -7,6 +7,7 @@ Este repositorio reune as atividades feitas durante a faculdade de ADS no Senac 
   🔹[Louja](#louja)
   🔹[trocaFonte](#trocafonte)
   🔹[calculator](#calculator)
+  🔹[port](#port)
 
 
 # Projetos
@@ -21,3 +22,6 @@ Este projeto é uma página simples em html e css que consiste em 3 opções, on
 
 ## calculator
 Uma calculadora simples feita em js.
+
+## Port
+Um simples portifólio feito em html e css.

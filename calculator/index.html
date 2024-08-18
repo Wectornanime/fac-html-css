@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora</title>
+</head>
+<body>
+    <main>
+        <section id="display">
+            <p id="displayTxt"></p>
+        </section>
+        <section id="keyboard">
+            <div class="butt se" onclick="zerar()">se</div>
+            <div class="butt c" onclick="limpaUm()">c</div>
+            <div class="butt res" onclick="displayAdd('=')">=</div>
+            <div class="butt mul" onclick="displayAdd('*')">*</div>
+            <div class="butt 1" onclick="displayAdd('1')">1</div>
+            <div class="butt 2" onclick="displayAdd('2')">2</div>
+            <div class="butt 3" onclick="displayAdd('3')">3</div>
+            <div class="butt plus" onclick="displayAdd('+')">+</div>
+            <div class="butt 4" onclick="displayAdd('4')">4</div>
+            <div class="butt 5" onclick="displayAdd('5')">5</div>
+            <div class="butt 6" onclick="displayAdd('6')">6</div>
+            <div class="butt sub" onclick="displayAdd('-')">-</div>
+            <div class="butt 7" onclick="displayAdd('7')">7</div>
+            <div class="butt 8" onclick="displayAdd('8')">8</div>
+            <div class="butt 9" onclick="displayAdd('9')">9</div>
+            <div class="butt dir" onclick="displayAdd('/')">/</div>
+            <div class="butt ," onclick="displayAdd(',')">,</div>
+            <div class="butt 0" onclick="displayAdd('0')">0</div>
+        </section>
+    </main>
+    
+</body>
+</html>

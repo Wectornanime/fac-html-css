@@ -5,6 +5,9 @@ Este repositorio reune as atividades feitas durante a faculdade de ADS no Senac 
 🔷 [Projetos](#projetos)
   🔹[Curriculo (CV)](#cv)
   🔹[Louja](#louja)
+  🔹[trocaFonte](#trocafonte)
+  🔹[calculator](#calculator)
+
 
 # Projetos
 ## CV
@@ -15,3 +18,6 @@ Este projeto é uma página simples em html e css que simula a tabela de proços
 
 ## trocaFonte
 Este projeto é uma página simples em html e css que consiste em 3 opções, onde eles trocam a fonte e o estilo da frase, a 2ª mostra duas imagens e a 3ª remove as imagens.
+
+## calculator
+Uma calculadora simples feita em js.

@@ -2,14 +2,14 @@
 Este repositorio reune as atividades feitas durante a faculdade de ADS no Senac PE, na cadeira de Coding do 2 periodo
 
 # Indice
-🔷 [Projetos](#projetos)
-  🔹[calculator](#calculator)
-  🔹[comparacao](#comparacao)
-  🔹[Curriculo (CV)](#cv)
-  🔹[Louja](#louja)
-  🔹[port](#port)
-  🔹[response](#response)
-  🔹[trocaFonte](#trocafonte)
+🔷 [Projetos](#projetos)<br>
+  🔹[calculator](#calculator)<br>
+  🔹[comparacao](#comparacao)<br>
+  🔹[Curriculo (CV)](#cv)<br>
+  🔹[Louja](#louja)<br>
+  🔹[port](#port)<br>
+  🔹[response](#response)<br>
+  🔹[trocaFonte](#trocafonte)<br>
 
 
 # Projetos
